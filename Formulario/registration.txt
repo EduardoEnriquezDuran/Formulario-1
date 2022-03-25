@@ -1,0 +1,2 @@
+Nombre                         Carrera              Edad         Correo                     Nombre del archivo
+Eduardo Enriquez Duran          Ing de datos         18           21031302@upgto.edu.mx         
